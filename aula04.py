@@ -35,3 +35,5 @@ plt.show()
 df.boxplot(column='altura')
 plt.title("Variação da Altura ")
 plt.show()
+
+
